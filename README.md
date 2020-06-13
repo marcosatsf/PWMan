@@ -1,6 +1,6 @@
 # PWMan
-A password manager written in Python language
-
+A password manager written in Python language which helps you create, read, update and delete (CRUD) \
+passwords from a file.
 
 ## Firsts Steps
 Set a key to access the manager and be used as key to en/decryption on `.env` file. \
