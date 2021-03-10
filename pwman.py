@@ -159,6 +159,7 @@ if verify_key(try_key):
                     print('Item Updated!')
                     print('Press enter to proceed...')
                     input()
+                    push_struct(pw_dict, key)
                 else: print('Item not inserted')
 
             if op == 3:
